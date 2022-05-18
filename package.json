@@ -1,0 +1,22 @@
+{
+  "name": "@danushl7/is-danush-package",
+  "version": "1.0.0",
+  "description": "is it danush's package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanushL7/is-danush-npm-package.git"
+  },
+  "keywords": [
+    "DAN"
+  ],
+  "author": "danush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanushL7/is-danush-npm-package/issues"
+  },
+  "homepage": "https://github.com/DanushL7/is-danush-npm-package#readme"
+}
